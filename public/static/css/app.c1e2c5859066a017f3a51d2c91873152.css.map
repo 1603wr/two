@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.c1e2c5859066a017f3a51d2c91873152.css"],"names":[],"mappings":"AAgBA,WACI,WAAW,AACX,YAAY,AACZ,qBAAsB,CACzB,AACD,OACI,YAAa,CAChB","file":"app.c1e2c5859066a017f3a51d2c91873152.css","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.clickfile{\r\n    width:80px;\r\n    height:40px;\r\n    border:1px solid #ccc;\n}\n.opint{\r\n    display:none;\n}\r\n"]}
